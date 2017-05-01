@@ -7,7 +7,7 @@
 		<key>Pool</key>
 		<dict>
 			<key>EndAddress</key>
-			<string>192.168.2.10</string>
+			<string>192.168.2.254</string>
 			<key>StartAddress</key>
 			<string>192.168.2.2</string>
 		</dict>
