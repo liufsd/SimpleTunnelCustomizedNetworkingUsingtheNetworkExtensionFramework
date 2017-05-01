@@ -4,12 +4,21 @@
 <dict>
 	<key>IPv4</key>
 	<dict>
+		<key>Routes</key>
+		<array>
+			<dict>
+				<key>Netmask</key>
+				<string>255.255.255.0</string>
+				<key>Address</key>
+				<string>192.168.31.1</string>
+			</dict>
+		</array>
 		<key>Pool</key>
 		<dict>
 			<key>EndAddress</key>
-			<string>192.168.2.254</string>
+			<string>10.1.1.100</string>
 			<key>StartAddress</key>
-			<string>192.168.2.2</string>
+			<string>10.1.1.1</string>
 		</dict>
 	</dict>
 </dict>
